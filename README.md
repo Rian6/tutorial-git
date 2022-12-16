@@ -15,7 +15,7 @@ git clone /caminho
 ```
 
 ## Fluxo de trabalho
-
+ ![](1.png)
 O git possui um sistema de arvore definido por aréas aonde os arquivos vão ser mantido até serem submetidos para a proxima etapa, esse fluxo segue o segunte caminho por 3 areas:
 
 * Working Directory - É o seu local de trabalho, são todos os arquivos que foram editados, excluidos ou adicionados antes de um commit e antes de serem enviados para o servidor
