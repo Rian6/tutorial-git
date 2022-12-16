@@ -67,7 +67,7 @@ E para remover a branch:
 ````
 git branch -d nova_branch
 ````
- E por fim para enviar uma branch para o servidor use o comando `````push````
+ E por fim para enviar uma branch para o servidor use o comando ````push````
  ````
  git push origin nova_branch
 ````
