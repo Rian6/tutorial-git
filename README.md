@@ -83,7 +83,7 @@ Esse comando é importante antes de submeter o codigo para o index pois certific
 Para realizar a junção de duas branch temos o comando:
 ````
 git merge sua_branch
-´´´´
+````
  Lembrando que nos 2 comandos o git vai tentar mesclar os 2 conjuntos de arquivo mas nem sempre isso é possivel, obrigando o usuario a resolver os conflitos antes de submeter as alterações.
  Após resolver os conflitos se houver, podemos realizar a mesma sequencia que usamos para submeter uma alteração normal
  
